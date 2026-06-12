@@ -14,7 +14,7 @@ Application Android en Java realisee pour l'examen de developpement Android 2025
 - Donnees conservees apres fermeture et redemarrage de l'application.
 - Blocage de l'enregistrement si le titre ou le contenu est vide.
 
-## Bonus consideres comme obligatoires
+## Bonus
 
 - Suppression d'une note avec confirmation.
 - Tri des notes par date, titre, couleur ou favoris.
