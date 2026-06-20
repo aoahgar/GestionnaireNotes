@@ -19,8 +19,8 @@ Application Android en Java realisee pour l'examen de developpement Android 2025
 - Suppression d'une note avec confirmation.
 - Tri des notes par date, titre, couleur ou favoris.
 - Mode sombre persistant.
-- Compteur total des notes et des favoris.
 - Partage d'une note via les applications du telephone.
+- Compteur total des notes et des favoris.
 - Ameliorations UX : messages de confirmation, validation des champs, palette de couleurs, interface claire.
 
 ## Design
@@ -29,7 +29,12 @@ L'interface reprend les maquettes fournies :
 
 - etat vide avec message `Aucune notes` ;
 - bouton flottant noir `+` ;
+<<<<<<< HEAD
 - liste de notes colorees avec titre, date et favori ;- palette verticale de couleurs ;
+=======
+- liste de notes colorees avec titre, date et favori ;
+- palette verticale de couleurs ;
+>>>>>>> 6f6824a5bf9d92509f297eecf2acaddd1c34f9f2
 - ecran de creation avec bouton `Creer` ;
 - ecran de modification avec bouton `Modifier`.
 
