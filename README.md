@@ -4,15 +4,15 @@ Application Android en Java realisee pour l'examen de developpement Android 2025
 
 ## Fonctionnalites obligatoires
 
-- Creation d'une note avec titre, contenu et couleur.
-- Consultation de toutes les notes enregistrees.
+- Consultation de toutes les notes enregistrées.
+- Création d'une note avec titre, contenu et couleur.
 - Modification d'une note existante.
 - Recherche par titre.
 - Ajout/retrait des favoris par double appui sur une note.
 - Filtre des notes favorites.
 - Persistance locale avec `SharedPreferences` et JSON.
 - Blocage de l'enregistrement si le titre ou le contenu est vide.
-- Donnees conservees apres fermeture et redemarrage de l'application.
+- Données conservées après fermeture et redémarrage de l'application.
 
 ## Bonus
 
