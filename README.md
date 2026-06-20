@@ -29,8 +29,7 @@ L'interface reprend les maquettes fournies :
 
 - etat vide avec message `Aucune notes` ;
 - bouton flottant noir `+` ;
-- palette verticale de couleurs ;
-- liste de notes colorees avec titre, date et favori ;
+- liste de notes colorees avec titre, date et favori ;- palette verticale de couleurs ;
 - ecran de creation avec bouton `Creer` ;
 - ecran de modification avec bouton `Modifier`.
 
