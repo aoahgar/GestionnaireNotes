@@ -6,7 +6,7 @@ Application Android en Java realisee pour l'examen de developpement Android 2025
 
 - Consultation de toutes les notes enregistrées.
 - Création d'une note avec titre, contenu et couleur.
-- Modification d'une note existante.
+- Modification d'une note deja existante.
 - Recherche par titre.
 - Ajout/retrait des favoris par double appui sur une note.
 - Filtre des notes favorites.
