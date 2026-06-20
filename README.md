@@ -8,8 +8,8 @@ Application Android en Java realisee pour l'examen de developpement Android 2025
 - Consultation de toutes les notes enregistrees.
 - Modification d'une note existante.
 - Recherche par titre.
-- Filtre des notes favorites.
 - Ajout/retrait des favoris par double appui sur une note.
+- Filtre des notes favorites.
 - Persistance locale avec `SharedPreferences` et JSON.
 - Blocage de l'enregistrement si le titre ou le contenu est vide.
 - Donnees conservees apres fermeture et redemarrage de l'application.
@@ -18,8 +18,8 @@ Application Android en Java realisee pour l'examen de developpement Android 2025
 
 - Suppression d'une note avec confirmation.
 - Tri des notes par date, titre, couleur ou favoris.
-- Compteur total des notes et des favoris.
 - Mode sombre persistant.
+- Compteur total des notes et des favoris.
 - Partage d'une note via les applications du telephone.
 - Ameliorations UX : messages de confirmation, validation des champs, palette de couleurs, interface claire.
 
