@@ -11,8 +11,8 @@ Application Android en Java realisee pour l'examen de developpement Android 2025
 - Filtre des notes favorites.
 - Ajout/retrait des favoris par double appui sur une note.
 - Persistance locale avec `SharedPreferences` et JSON.
-- Donnees conservees apres fermeture et redemarrage de l'application.
 - Blocage de l'enregistrement si le titre ou le contenu est vide.
+- Donnees conservees apres fermeture et redemarrage de l'application.
 
 ## Bonus
 
